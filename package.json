@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@compound-finance/compound-js": "^0.5.1",
+    "bootstrap": "^5.2.3",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.1",
     "next": "13.2.1",
